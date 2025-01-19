@@ -1,0 +1,30 @@
+export const fonts = {
+  primary: {
+    thin: 'NS-extralight',
+    light: 'NS-light',
+    regular: 'NS-regular',
+    medium: 'NS-medium',
+    semibold: 'NS-semibold',
+    bold: 'NS-bold',
+    extrabold: 'NS-extrabold',
+    black: 'NS-black',
+  },
+  secondary: {
+    thin: 'Roboto-Thin',
+    light: 'Roboto-Light',
+    regular: 'Roboto-Regular',
+    medium: 'Roboto-Medium',
+    bold: 'Roboto-Bold',
+    black: 'Roboto-Black',
+  },
+  workSans: {
+    thin: 'WorkSans-ExtraLight',
+    light: 'WorkSans-Light',
+    regular: 'WorkSans-Regular',
+    medium: 'WorkSans-Medium',
+    semibold: 'WorkSans-SemiBold',
+    bold: 'WorkSans-Bold',
+    extrabold: 'WorkSans-ExtraBold',
+    black: 'WorkSans-Black',
+  },
+};
